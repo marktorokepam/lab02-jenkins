@@ -11,5 +11,6 @@ public class App {
 		App app =  new App();
 		System.out.println(app.getClass().getPackage().getImplementationVersion());
 		System.out.println("Hello World!");
+		System.out.println("Hello Hooo!");
 	}
 }
